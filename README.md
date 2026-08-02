@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm <strong>MILLA MANIDEEPNAGASAI</strong></h1>
 
 <h3 align="center">
@@ -121,4 +120,3 @@ https://github.com/nagasai507/nutrition-assistant/blob/main/Demo%20Video%20(2).m
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?
-```
