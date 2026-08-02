@@ -353,7 +353,6 @@ Every star motivates me to build even better projects!
 <p align="center">
 
 ### ⭐ Happy Coding!
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+Build+Something+Awesome!;Happy+Coding!+🚀"/>
 
 </p>
