@@ -1,4 +1,4 @@
-<!-- ========================= HERO ========================= -->
+
 
 <h1 align="center">
   Hi 👋, I'm <b>MILLA MANIDEEPNAGASAI</b>
